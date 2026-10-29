@@ -10,7 +10,7 @@ Built in C# for the Microsoft Software & Systems Academy (MSSA) Cloud Applicatio
 
 | HR view | Manager view | Login |
 |---|---|---|
-| ![HR dashboard]("C:\Users\djaru\Downloads\hr-dashboard.png") | ![Manager view]("C:\Users\djaru\Downloads\manager-view.png") | ![Login]("C:\Users\djaru\Downloads\login.png") |
+| ![HR dashboard](""C:\Users\djaru\Downloads\hr-dashboard.png"") | ![Manager view](""C:\Users\djaru\Downloads\manager-view.png"") | ![Login](""C:\Users\djaru\Downloads\login.png"") |
 
 ## Features
 
